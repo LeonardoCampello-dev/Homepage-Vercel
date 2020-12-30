@@ -181,6 +181,7 @@ main h1 {
 }
 
 main h1 span {
+  padding: 0 0.67rem;
   -webkit-filter: brightness(0) invert(1);
           filter: brightness(0) invert(1);
   background-clip: text;
